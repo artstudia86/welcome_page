@@ -1,0 +1,7 @@
+{
+  "externally_connectable": {
+    "matches": [
+      "https://YOUR-DOMAIN.example/*"
+    ]
+  }
+}
